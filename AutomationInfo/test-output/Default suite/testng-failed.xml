@@ -5,9 +5,11 @@
     <classes>
       <class name="ar.com.info.automation.test.TestAltaUsr">
         <methods>
+          <include name="getDriver"/>
           <include name="createAcount"/>
-          <include name="setUp"/>
           <include name="initUser"/>
+          <include name="cerrarNavegador"/>
+          <include name="abrirNavegador"/>
         </methods>
       </class> <!-- ar.com.info.automation.test.TestAltaUsr -->
     </classes>

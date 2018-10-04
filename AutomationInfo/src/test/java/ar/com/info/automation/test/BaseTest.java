@@ -26,9 +26,9 @@ import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.FirefoxDriverManager;
 
 public class BaseTest {
-	//protected WebDriver driver;
+	protected WebDriver driver;
 	
-	/*PARA DEJAR COMO ANTES****
+	
 	@BeforeMethod
 	public void setUp() {
 		ChromeDriverManager.getInstance().setup();
@@ -42,8 +42,8 @@ public class BaseTest {
 			driver.quit();
 		}
 	}
-	*/
 	
+	/*Para correrlo de forma Remota
 	protected WebDriver driver;
 	final String GRID_HOST = "http://192.168.42.120:4444";
 	private String navegador;
@@ -137,7 +137,7 @@ public class BaseTest {
 		}
 	}
 	
-	
+	*/
 	
 	
 }
