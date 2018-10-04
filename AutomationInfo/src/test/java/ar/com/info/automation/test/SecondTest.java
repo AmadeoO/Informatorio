@@ -1,12 +1,12 @@
 package ar.com.info.automation.test;
 
-import static org.testng.Assert.assertEquals;
+//import static org.testng.Assert.assertEquals;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import ar.com.info.automation.pages.GimmeRadioPage;
-import ar.com.info.automation.pages.GoogleResultPage;
+//import ar.com.info.automation.pages.GimmeRadioPage;
+//import ar.com.info.automation.pages.GoogleResultPage;
 import ar.com.info.automation.pages.GoogleSearchPage;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 

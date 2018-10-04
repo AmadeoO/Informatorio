@@ -22,6 +22,5 @@ public class GoogleResultPage extends BasePage {
 */
 	public void openFirstResult() {
 		firstResult.click();
-	}
-	
+	}	
 }

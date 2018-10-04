@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16158" started-at="2018-10-03T22:50:08Z" finished-at="2018-10-03T22:50:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16158" started-at="2018-10-03T22:50:08Z" finished-at="2018-10-03T22:50:24Z">
+      <class name="ar.com.info.automation.test.TestAltaUsr">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:ar.com.info.automation.test.TestAltaUsr@27efef64]" name="getDriver" is-config="true" duration-ms="3625" started-at="2018-10-03T19:50:04Z" finished-at="2018-10-03T19:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method status="PASS" signature="abrirNavegador(java.lang.String)[pri:0, instance:ar.com.info.automation.test.TestAltaUsr@27efef64]" name="abrirNavegador" is-config="true" duration-ms="2673" started-at="2018-10-03T19:50:08Z" finished-at="2018-10-03T19:50:10Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirNavegador -->
+        <test-method status="PASS" signature="initUser()[pri:0, instance:ar.com.info.automation.test.TestAltaUsr@27efef64]" name="initUser" is-config="true" duration-ms="0" started-at="2018-10-03T19:50:10Z" finished-at="2018-10-03T19:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initUser -->
+        <test-method status="PASS" signature="createAcount()[pri:0, instance:ar.com.info.automation.test.TestAltaUsr@27efef64]" name="createAcount" duration-ms="12892" started-at="2018-10-03T19:50:10Z" finished-at="2018-10-03T19:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcount -->
+        <test-method status="PASS" signature="cerrarNavegador()[pri:0, instance:ar.com.info.automation.test.TestAltaUsr@27efef64]" name="cerrarNavegador" is-config="true" duration-ms="516" started-at="2018-10-03T19:50:23Z" finished-at="2018-10-03T19:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- ar.com.info.automation.test.TestAltaUsr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
