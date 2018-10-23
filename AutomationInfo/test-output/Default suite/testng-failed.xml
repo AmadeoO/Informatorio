@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="service.InsumoTest">
+      <class name="ar.com.info.automation.test.TestAltaUsr">
         <methods>
-          <include name="getAll"/>
+          <include name="createAcount"/>
           <include name="setUp"/>
+          <include name="initUser"/>
         </methods>
-      </class> <!-- service.InsumoTest -->
+      </class> <!-- ar.com.info.automation.test.TestAltaUsr -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

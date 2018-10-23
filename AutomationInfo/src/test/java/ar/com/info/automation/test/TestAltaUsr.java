@@ -23,8 +23,9 @@ public class TestAltaUsr extends BaseTest{
 	@BeforeMethod
 	public void initUser() {
 		this.user= new User("mr.", "pepe", "zorin", "asdewq", "15", "10", "1996", true, true, "Las Muletas de MAMA",
-							"calle sin nombre", "calle sin numero", "lalala", "Louisiana", "3258",
-							"Amante del Blues y casador de COCODRILOS ", "1478520225","15453131");
+							"calle sin nombre1", "calle sin numero2", "lalala", "Louisiana", "32588",
+							"Amante del Blues y casador de COCODRILOS ", "1478520225","15453131","ya fue","ya fue 2", "Amante del Blues y casador de COCODRILOS entre otras cosas");
+		
 	}
 	
 	
@@ -34,11 +35,12 @@ public class TestAltaUsr extends BaseTest{
 		HomePageSignIn homePageSignIn = new HomePageSignIn(driver);
 		homePageSignIn.clickSignIn();
 		AltaPage alta= new AltaPage(driver);
-		alta.createCount("pepito@gmail.com");
+		alta.createCount("pepitoxx@gmail.com");
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
 		CompleteFieldsPage completeFieldsPage = new CompleteFieldsPage(driver, this.user);
 		completeFieldsPage.completePersonalInformation();
 		completeFieldsPage.yourAddress();
+		
 		
 		
 	}
