@@ -2,6 +2,7 @@ package ar.com.info.automation.test;
 
 //import static org.testng.Assert.assertEquals;
 
+import io.github.bonigarcia.wdm.DriverManagerType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -14,7 +15,7 @@ public class SecondTest {
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver = null;
         try {
-		ChromeDriverManager.getInstance().setup();
+        	ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
 		driver = new ChromeDriver();
 		driver.get("https://google.com.ar");
 		

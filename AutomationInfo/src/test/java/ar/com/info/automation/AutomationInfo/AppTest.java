@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
+import static org.testng.TestNGAntTask.Mode.junit;
 
 
 /**

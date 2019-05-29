@@ -21,7 +21,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
-
+import io.github.bonigarcia.wdm.DriverManagerType;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.FirefoxDriverManager;
 
@@ -31,8 +31,8 @@ public class BaseTest {
 	
 	@BeforeMethod
 	public void setUp() {
-		ChromeDriverManager.getInstance().setup();
-		driver= new ChromeDriver();
+		ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
+		driver = new ChromeDriver();
 		
 	}
 	/*

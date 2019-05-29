@@ -15,7 +15,7 @@ import org.openqa.selenium.support.FindBy;
 public class UserAutenticationOKPage extends BasePage {
 	
 	
-	@FindBy(class="page-heading")
+	@FindBy(className="page-heading")
 	private WebElement title;
 
 	public UserAutenticationOKPage(WebDriver driver) {
