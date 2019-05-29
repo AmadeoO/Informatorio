@@ -35,14 +35,14 @@ public class BaseTest {
 		driver = new ChromeDriver();
 		
 	}
-	/*
+
 	@AfterMethod
 	public void tearDown() {
 		if (null != driver) {
 			driver.quit();
 		}
 	}
-	*/
+
 	/*Para correrlo de forma Remota
 	protected WebDriver driver;
 	final String GRID_HOST = "http://192.168.42.120:4444";
