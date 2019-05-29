@@ -1,64 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3f62675-0b53-4860-869f-0b68c6ba7de4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Informatorio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java" afterDir="false" />
+    <list default="true" id="68d905b4-08ca-4525-869a-e328d922bec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Informatorio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationInfo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/Suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/SuiteGrid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SuiteGrid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/main/java/ar/com/info/automation/AutomationInfo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/com/info/automation/AutomationInfo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/main/java/ar/com/info/automation/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/com/info/automation/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/AutomationInfo/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/AutomationInfo/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/AltaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/AltaPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/CompleteFieldsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/CompleteFieldsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/GimmeRadioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/GimmeRadioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/GoogleResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/GoogleResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/GoogleSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/HomePageSignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/HomePageSignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/LoguinMercury.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/LoguinMercury.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/pages/UserAutenticationOKPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/pages/UserAutenticationOKPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/SecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/test/SecondTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/info/automation/test/TestAltaUsr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/service/Insumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/Insumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/src/test/java/service/InsumoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/InsumoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/Default suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/junitreports/TEST-ar.com.info.automation.test.TestAltaUsr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-ar.com.info.automation.test.TestAltaUsr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/junitreports/TEST-service.InsumoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-service.InsumoTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/Default test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/Default test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/Default suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationInfo/test-output/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/SecondTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/AutomationInfo/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -67,113 +90,31 @@
     <option name="width" value="1538" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationInfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="info" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="info" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Informatorio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Informatorio" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="info" type="462c0819:PsiDirectoryNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -194,34 +135,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f3f62675-0b53-4860-869f-0b68c6ba7de4" name="Default Changelist" comment="" />
-      <created>1559136247416</created>
+      <changelist id="68d905b4-08ca-4525-869a-e328d922bec8" name="Default Changelist" comment="" />
+      <created>1559140444239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559136247416</updated>
-      <workItem from="1559136248711" duration="442000" />
+      <updated>1559140444239</updated>
+      <workItem from="1559140447668" duration="42000" />
+      <workItem from="1559140899447" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="442000" />
+    <option name="totallyTimeSpent" value="276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22555012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -229,50 +165,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/AutomationInfo/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/SecondTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationInfo/src/test/java/ar/com/info/automation/test/TestAltaUsr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8.0_201</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
